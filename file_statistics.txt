@@ -1,0 +1,7 @@
+Source file statistics : 
+______________________________
+Number of characters ... 714.
+Number of lines ... 31.
+Number of vowels ... 219.
+Number of consonants ... 317.
+Number of digits ... 5.
